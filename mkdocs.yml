@@ -1,5 +1,5 @@
 site_name: Digital Data Showcase 2025
-repo_url: https://github.com/swsphn/dds25
+repo_url: https://github.com/jstucken/dds25
 edit_uri: edit/main/docs/  # or edit/main/ if your docs are in the root
 
 theme:
